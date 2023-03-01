@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EuHellscytheLua/AOTV0.01/master/EusAOTUi.lua"))()

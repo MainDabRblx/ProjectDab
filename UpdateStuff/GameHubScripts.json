@@ -1,0 +1,584 @@
+[
+    {
+        "title":"A Universal Time",
+        "credits": "by TweedLeak",
+        "desc" : "AUT GUI mainly intended for autofarming.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/AUT.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AUT.png"
+    },
+    {
+        "title":"Anime Dimensions Simulator",
+        "credits": "by Singularity",
+        "desc" : "Anime Dimensions GUI with some functions.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/AnimeDimensions.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AnimeDimensionsSimulator.png"
+    },
+    {
+        "title":"Apocalypse Rising 2",
+        "credits": "by H4/Bonfire",
+        "desc" : "AR2 GUI with ESP and aimbots.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/AR.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/AR.png"
+    },
+    {
+        "title":"Arsenal",
+        "credits": "by Dark Scripts",
+        "desc" : "A script for Arsenal containing aimbots and ESP options.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/FPSArcade/Arsenal.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSArcade/Arsenal.png"
+    },
+    {
+        "title":"Allusions",
+        "credits": "by epicgameswinner",
+        "desc" : "A script for Allusions. We are not responsible if you get banned from the game.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/Fighting/Allusions.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/Fighting/Allusions.png"
+    },
+    {
+        "title":"Anime Adventures",
+        "credits": "by Trapstar",
+        "desc" : "A script for Anime Adventures.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/AnimeAdventures.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AnimeAdventures.png"
+    },
+    {
+        "title":"Anime Fighting Simulator",
+        "credits": "by Singularity",
+        "desc" : "A script for Anime Fighting Simulator, a rather lame game.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/AnimeFightingSimulator.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/AnimeFightingSimulator.png"
+    },
+    {
+        "title":"Bad Business",
+        "credits": "by The 3Bakers4565",
+        "desc" : "An aimbot script for Bad Buisness. Using ESP is often a safer option.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/FPSArcade/BadBuisnessAimbot.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSArcade/BadBuisness.png"
+    },
+    {
+        "title":"Bee Swarm Simulator",
+        "credits": "by MacroV2",
+        "desc" : "A large collection of scripts for BSS.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChlidren/BeeSwarmSimulator.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/BeeSwarmSimulator.png"
+    },
+    {
+       "title":"BedWars",
+       "credits": "by 7GrandDadPGN",
+       "desc" : "A script called Vape V4 made for BedWars.",
+       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/BedWars.lua\"))()",
+       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/BedWars.png"
+    },
+    {
+        "title":"Blackhawk Rescue Mission 5",
+        "credits": "by Pravus",
+        "desc" : "A BRM5 combat script from Pravus Hub.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/Parvus.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSRealistic/BRM5.png"
+     },
+    {
+        "title":"Bloxburg",
+        "credits": "by Scarface",
+        "desc" : "Scar Hub is a small script hub for a few games, including Bloxburg",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/WelcomeToBloxburg.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/Bloxburg.png"
+    },
+    {
+       "title":"Blox Fruits",
+       "credits": "by Delta",
+       "desc" : "A large Blox Fruits GUI with around 20 scripts to choose from.",
+       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/BloxFruitsHub.lua\"))()",
+       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/BloxFruits.png"
+    },
+    {
+        "title":"Booga Booga [REBORN]",
+        "credits": "by Babyhamsta",
+        "desc" : "Press right ctrl on your keyboard to toggle the UI.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/BoogaBoogaReborn.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/BoogaBoogaReborn.png"
+    },
+    {
+        "title":"Bubble Gum Simulator",
+        "credits": "by Luftwaffe",
+        "desc" : "A GUI script for Bubble Gum Simulator.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/BubbleGumSimulator.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/BubbleGumSimulator.png"
+    },
+    {
+        "title":"Build A Boat For Treasure script",
+        "credits": "by unknown",
+        "desc" : "Script originally came from Zaicha Hub...?",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/BuildABoatForTreasure.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/BuildABoatForTreasure.png"
+    },
+    {
+        "title":"BUILD N' DESTROY",
+        "credits": "by unknown",
+        "desc" : "You will have to click 'copy script' and manually edit this script to use it.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/BUILDNDESTROY.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/BUILDNDESTROY.png"
+    },
+    {
+        "title":"Breaking Point",
+        "credits": "by reddythedev",
+        "desc" : "This script seems slightly outdated, but it still should work.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/BreakingPoint.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/BreakingPoint.png"
+    },
+    {
+        "title":"Cabin Crew Simulator",
+        "credits": "by unknown",
+        "desc" : "An autofarm script for Cabin Crew Simulator.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/CabinCrewSimulatorAutofarm.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/CabinCrewSimulator.png"
+    },
+    {
+        "title":"Car Crushers 2",
+        "credits": "by Soggyware",
+        "desc" : "You will need a key to use this script.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/CarCrushers2.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/CarCrushers2.png"
+    },
+    {
+        "title":"Combat Warriors",
+        "credits": "by DriftWare",
+        "desc" : "The key for this script is DriftWareIsCool.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/Fighting/CombatWarriors.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/Fighting/CombatWarriors.png"
+    },
+    {
+        "title":"Critical Strike V5.7.5",
+        "credits": "by aidez",
+        "desc" : "A bunch of 'admin' commands for Critical Strike.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/Fighting/CriticalStrikeOld.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/Fighting/CriticalStrike.png"
+    },
+    {
+        "title":"Creatures of Sonaria",
+        "credits": "by unknown",
+        "desc" : "A script that allows you to autofarm gifts.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/RPG/CreaturesOfSonariaAutoFarm.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/RPG/CreaturesOfSonaria.png"
+    },
+    {
+        "title":"Da Hood",
+        "credits": "by allvideo",
+        "desc" : "This script has multiple functions needed for combat in Da Hood.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/DaHood.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/DaHood.png"
+    },
+    {
+        "title":"Demonfall",
+        "credits": "by WinterDinder",
+        "desc" : "Join their Discord (K6JDqbwgc8) to obtain a key.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/Demonfall.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/Demonfall.png"
+    },
+    {
+        "title":"Destruction Simulator",
+        "credits": "by unknown",
+        "desc" : "This script gives you unlimited coins in that game. And yes, the coins do save after you leave.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/DestructionSimulatorInfCoins.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/DestructionSimulator.png"
+    },
+    {
+        "title":"Downfall",
+        "credits": "by EuHellscytheLua",
+        "desc" : "Comes along with hitbox extenders and options to kill everyone.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/Downfall.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/Downfall.png"
+    },
+    {
+        "title":"Dragon Blox",
+        "credits": "by XTheMasterX",
+        "desc" : "A stupid script for an equally stupid game.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/DragonBlox.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/DragonBlox.png"
+    },
+    {
+        "title":"Dungeon Quest",
+        "credits": "by PeanutQuest",
+        "desc" : "An autofarming script for Dungeon Quest.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/RPG/DungeonQuest.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/RPG/DungeonQuest.png"
+    },
+    {
+        "title":"DOORS",
+        "credits": "by Pearl",
+        "desc" : "This script has autofarm and autoescape features.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/DOORS.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/DOORS.png"
+    },
+    {
+        "title":"Elemental Battlegrounds",
+        "credits": "by unknown",
+        "desc" : "This is a simple shard grabber for Elemental Battlegrounds.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/Fighting/ElementalBattlegroundsShardGrabber.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/Fighting/ElementalBattlegrounds.png"
+    },
+    {
+        "title":"Entry Point",
+        "credits": "by FPSArcade",
+        "desc" : "ESP and hitbox extender options for Entry Point.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/FPSArcade/EntryPoint.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSArcade/EntryPoint.png"
+    },
+    {
+        "title":"Facility Roleplay",
+        "credits": "by jumblescripts",
+        "desc" : "A few combat options for Facility Roleplay.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/FacilityRoleplay.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/FacilityRoleplay.png"
+    },
+    {
+        "title":"Field Trip Z",
+        "credits": "by SalatBlitz",
+        "desc" : "It isn't really worth it to exploit in such games.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/FieldTripZ.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/FieldTripZ.png"
+    },
+    {
+        "title":"Flicker",
+        "credits": "by unknown",
+        "desc" : "Removes your name from the voting list.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/Flicker.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/Flicker.png"
+    },
+    {
+        "title":"God Simulator 2",
+        "credits": "by unknown",
+        "desc" : "This is mainly for autofarming in God Simulator 2.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/GodSimulator.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/GodSimulator2.png"
+    },
+    {
+        "title":"Greenville",
+        "credits": "by mstir16",
+        "desc" : "This is an autofarming script for Greenville.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/Greenville.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/Greenville.png"
+    },
+    {
+        "title":"Horrific Housing",
+        "credits": "by unknown",
+        "desc" : "This script autocollects souls. Nothing else to it.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/HorrificHousing.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/HorrificHousing.png"
+    },
+    {
+        "title":"Horrific Housing",
+        "credits": "by Averiias",
+        "desc" : "This is not really a script made for it, but rather a universal silent aim script.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/Fighting/ItemAsylum.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/Fighting/ItemAsylum.png"
+    },
+    {
+        "title":"Infectious Smile",
+        "credits": "by Nicuse",
+        "desc" : "If your only emotion is happiness... then.. are you really human?",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/InfectiousSmile.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/InfectiousSmile.png"
+    },
+    {
+        "title":"Islands",
+        "credits": "by Viribus",
+        "desc" : "Quite a lot of functions with this script, including an autofarm option.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/Islands.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/Islands.png"
+    },
+    {
+        "title":"Jailbreak",
+        "credits": "by Kuri",
+        "desc" : "Has weapon and vechicle mods. The script may have a key system.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/Jailbreak.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/Jailbreak.png"
+    },
+    {
+        "title":"KAT",
+        "credits": "by Real King",
+        "desc" : "Weapon mods and aimbot for KAT.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/KAT.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/KAT.png"
+    },
+    {
+        "title":"Legends of Speed",
+        "credits": "by KrangH",
+        "desc" : "Autofarm script for Legends of Speed.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/LegendsOfSpeed.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/LegendsOfSpeed.png"
+    },
+    {
+        "title":"Loomian Legacy",
+        "credits": "by thedragonslayer2",
+        "desc" : "Auto Hunt, Auto Battle and other features included.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsTycoons/LumberTycoon.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsTycoons/LumberTycoon.png"
+    },
+    {
+        "title":"Mad City",
+        "credits": "by KING",
+        "desc" : "ESP, teleports, vehicle settings and more. May need a key.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/MadCity.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/MadCity.png"
+    },
+    {
+        "title":"Magnet Simulator 2",
+        "credits": "by KING",
+        "desc" : "A GUI script for Magnet Simulator.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/MagnetSimulator2.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/MagnetSimulator2.png"
+    },
+    {
+        "title":"Meep City",
+        "credits": "by kila",
+        "desc" : "Autofarm script for Meep City.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/MeepCity.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/MeepCity.png"
+    },
+    {
+        "title":"Murder Mystery 2",
+        "credits": "by vwSaraa",
+        "desc" : "A MM2 script.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/MM2.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/MurderMystery2.png"
+    },
+    {
+        "title":"Ninja Legends",
+        "credits": "by unknown",
+        "desc" : "Yet another autofarming script for Ninja Legends.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/NinjaLegends.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/NinjaLegends.png"
+    },
+    {
+        "title":"Notoriety",
+        "credits": "by ValoddVSC",
+        "desc" : "ESP and hitbox extender for Notoriety.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/Notoriety.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/Notoriety.png"
+    },
+    {
+        "title":"Parkour",
+        "credits": "by xgamer626",
+        "desc" : "May only work for Oxygen U API, and a key may be needed.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/Parkour.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/Parkour.png"
+    },
+    {
+        "title":"Pet Simulator X",
+        "credits": "by Singularity",
+        "desc" : "A list of scripts for Pet Simulator X. No guarantees the scripts work.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/PSX.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/PetSimulatorX.png"
+    },
+    {
+        "title":"Phantom Forces",
+        "credits": "by unknown",
+        "desc" : "Undetectable ESP script for Phantom Forces.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/FPSArcade/PF.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSArcade/PhantomForces.png"
+    },
+    {
+        "title":"Pls Donate Autofarm",
+        "credits": "by CF-Trail",
+        "desc" : "Pls Donate Autofarm script.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/PlsDonateAutofarm.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/PlsDonate.png"
+    },
+    {
+        "title":"Prison Life",
+        "credits": "by raimbowo",
+        "desc" : "A command bar script for Prison Life.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/PrisonLife.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/PrisonLife.png"
+    },
+    {
+        "title":"RoBeats",
+        "credits": "by unknown",
+        "desc" : "Make sure to your keybind to z,x, comma and period.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/RoBeats.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/RoBeats.png"
+    },
+    {
+        "title":"RoCitizens",
+        "credits": "by xXRoyalZombieXx",
+        "desc" : "Allows you to set nametag colours and cape colours.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/RoCitizens.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/RoCitizens.png"
+    },
+    {
+        "title":"Ro-Ghoul",
+        "credits": "by Traphub",
+        "desc" : "Go on and autofarm in this disgusting game.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/RoGhoul.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/RoGhoul.png"
+    },
+    {
+        "title":"RoVille",
+        "credits": "by BueCat666",
+        "desc" : "A RoVille script.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/Roville.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/RoVille.png"
+    },
+    {
+        "title":"Redwood Prison",
+        "credits": "by Jalos and Nameless",
+        "desc" : "A ton of functions, including a building tool that appears for everyone.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/RedwoodPrison.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/RedwoodPrison.png"
+    },
+    {
+        "title":"SCP-3008",
+        "credits": "by 16bitdev",
+        "desc" : "May only work using Oxygen U API.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/SCP3008.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/SCP3008.png"
+    },
+    {
+        "title":"Sharkbite 1",
+        "credits": "by Alpha X",
+        "desc" : "Kill all options (as a shark) and shark ESP.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/Sharkbite1.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/Sharkbite1.png"
+    },
+    {
+        "title":"Sharkbite 2",
+        "credits": "by Facts",
+        "desc" : "May only work using Oxygen U API. Autofarm, ESP and gun mods.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/Sharkbite2.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/Sharkbite2.png"
+    },
+    {
+        "title":"Slap Battles (Rogue Hub)",
+        "credits": "by Kitzoon",
+        "desc" : "Rogue Hub is a script hub with a few scripts.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/SlapBattles.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/SlapBattles.png"
+    },
+    {
+        "title":"Speed Run 4",
+        "credits": "by LKHUB",
+        "desc" : "Speed Run 4 autofarm. Uses LKHUB.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/SpeedRun4.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/SpeedRun4.png"
+    },
+    {
+        "title":"SoulShatters Test Place",
+        "credits": "by unknown",
+        "desc" : "Gives you Dust Sans for free.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/Fighting/SoulShatters.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/Fighting/SoulShatters.png"
+    },
+    {
+        "title":"Super Bomb Survival",
+        "credits": "by DekuDimz",
+        "desc" : "Super Bomb Survival autofarm and ESP. Uses V.G Hub.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/SuperBombSurvival.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/SuperBombSurvival.png"
+    },
+    {
+        "title":"Survive The Night",
+        "credits": "by Unordinary",
+        "desc" : "Survive The Night ESP.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/SurviveTheNight.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/SurviveTheNight.png"
+    },
+    {
+        "title":"Swordburst 2",
+        "credits": "by OneTaPuXd",
+        "desc" : "There are mostly character modifications in this script.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/RPG/Swordburst2.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/RPG/Swordburst2.png"
+    },
+    {
+        "title":"Tower Battles",
+        "credits": "by Nexity",
+        "desc" : "Kill all script for Tower Battles.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/TowerBattles.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/TowerBattles.png"
+     },
+    {
+        "title":"Tower Defense Simulator",
+        "credits": "by unknown",
+        "desc" : "This script automatically place towers and ugrades them.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/TowerDefenceGames/TowerDefenseSimulator.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/TowerDefenceGames/TowerDefenseSimulator.png"
+     },
+     {
+        "title":"Warship Roleplay",
+        "credits": "by unknown",
+        "desc" : "This scripts spams the radio chat.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/WarshipRoleplay.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/WarshipRoleplay.png"
+     },
+     {
+        "title":"Weaponry",
+        "credits": "by unknown",
+        "desc" : "Gun mods for Weaponry. Aimbots can be found in the Script Hub tab.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/FPSArcade/Weaponry.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSArcade/Weaponry.png"
+     },
+     {
+        "title":"Welcome to Bloxburg",
+        "credits": "by unknown",
+        "desc" : "A list of scripts for Bloxburg.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualAllAges/WelcomeToBloxburg.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualAllAges/WelcomeToBloxburg.png"
+     },
+     {
+        "title":"Work at a Pizza Place",
+        "credits": "by Ameicaa",
+        "desc" : "A GUI fpr the game with a bunch of functions..",
+        "script":"loadstring(game:HttpGet(\"htts://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/CasualYoungerChildren/WorkAtAPizzaPlace.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/CasualYoungerChildren/WorkAtAPizzaPlace.png"
+     },
+     {
+        "title":"Wisteria",
+        "credits": "by ceg, mxntal and Pixleus",
+        "desc" : "Autofarm and other functions included.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/RPG/Wisteria.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/RPG/Wisteria.png"
+     },
+     {
+        "title":"World//Zero",
+        "credits": "by HeiKe2022",
+        "desc" : "Autofarm, kill aura and class unlocks.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/RPG/WorldZero.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/RPG/WorldZero.png"
+     },
+     {
+        "title":"YouTube Simulator X",
+        "credits": "by unknown",
+        "desc" : "ESP and walkspeed options.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/SimulatorsNoTycoons/YouTubeSimulatorX.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/SimulatorsNoTycoons/YouTubeSimulatorX.png"
+     },
+     {
+        "title":"Your Bizzare Adventure",
+        "credits": "by NukeVsCity",
+        "desc" : "You will need a key for this script, which you can get in the owner's Discord.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/AnimeGames/YBA.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/AnimeGames/YourBizzareAdventure.png"
+     },
+     {
+        "title":"ZO",
+        "credits": "by xGamerman626",
+        "desc" : "May only work using Oxygen U API.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/Fighting/ZO.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/Fighting/ZO.png"
+     },
+     {
+        "title":"Zombie Attack",
+        "credits": "by unknown",
+        "desc" : "Zombie Attack aimbot and hitbox extender.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/FPSArcade/ZombieAttack.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSArcade/ZombieAttack.png"
+     },
+     {
+        "title":"Zombie Attack",
+        "credits": "by Rook Hub",
+        "desc" : "Uses Rook Hub. May include a key system.",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GameHub/FPSArcade/ZombieRush.lua\"))()",
+        "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GameHub/FPSArcade/ZombieRush.png"
+     }
+ ]
+ 

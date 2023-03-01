@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Nameless9000/Redwood-GUI/blob/main/Main.lua"))()
