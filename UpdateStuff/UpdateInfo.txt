@@ -1,5 +1,7 @@
 Build number 173 would be the final version of MainDab to be released.
 
+<------------------------------------------------------------------------------------------------------------------------------------->
+
 == MainDab 15.1 SP8 Released! ==
 Build number: 173
 Release date: 27 April 2023
@@ -13,6 +15,8 @@ MainDab's auto updater has broken down due to me moving MainDab's assets to anot
 New documentation
 MainDab now has download tutorials for Arch Linux, Gentoo Linux, openSUSE and Ubuntu, which make use of Wine to run MainDab. As far as I am aware, there are no other exploits that have any guides for exploiting on Linux (at most just Arch Linux).
 
+<------------------------------------------------------------------------------------------------------------------------------------->
+
 == MainDab 15.1 SP7 Released! ==
 Build number: 172
 Release date: Feburary 6 2023
@@ -25,6 +29,8 @@ Fixes/removals
 
 Updates
 • Added in Krnl's API as requested. Also note that you will need to go through four key systems in order to use Krnl (keys last for 48 hours, I believe)
+
+<------------------------------------------------------------------------------------------------------------------------------------->
 
 == MainDab 15.1 SP6 Released! ==
 Build number: 171
@@ -41,6 +47,8 @@ Fixes/removals
 About EasyExploits API
 I could simply just fix the EasyExploits API right now, but I am unsure if I actually need the permission to use Furk Ultra's injection (since that's where EasyExploits work from). EasyExploits API in MainDab is disabled until EasyExploits fixes their injection and no longer demands you to use Furk Ultra.
 
+<------------------------------------------------------------------------------------------------------------------------------------->
+
 == MainDab 15.1 SP5 Released! ==
 Build number: 170
 Release date: Feburary 21 2023
@@ -48,12 +56,16 @@ Release date: Feburary 21 2023
 Update information
 Attempt #1 at fixing MainDab "randomly closing". This is possibly linked to a timer that I have running in the background of MainDab that constantly checks for WeAreDevs API status.
 
+<------------------------------------------------------------------------------------------------------------------------------------->
+
 == MainDab 15.1 SP4 Released! ==
 Build number: 169
 Release date: Feburary 21 2023
 
 Update information
 Fixed the WeAreDevs error closing MainDab
+
+<------------------------------------------------------------------------------------------------------------------------------------->
 
 == MainDab 15.1 SP3 Released! ==
 Build number: 168
@@ -71,6 +83,8 @@ MainDab has recieved a new bootstrapper UI. It looks completely different from t
 
 You can download the bootstrapper and see for yourself here: https://github.com/MainDabRblx/ProjectDab/blob/master/MainDabBootstrapper.exe?raw=true (or ⁠『📥』get-maindab)
 
+<------------------------------------------------------------------------------------------------------------------------------------->
+
 == MainDab 15.1 SP2 Released! ==
 Build number: 167
 Release date: December 22 2022
@@ -82,6 +96,8 @@ Fixes/removals
 • Made the script hub images look a bit less weird for custom themes
 • Readded the side bar panel or else custom themes would make MainDab look extremely goofy
 
+<------------------------------------------------------------------------------------------------------------------------------------->
+
 == MainDab 15.1 SP1 Released! ==
 Build number: 166
 Release date: December 22 2022
@@ -92,6 +108,8 @@ Apparently having a lot of images in the script and game hub would be a bit of a
 Fixes/removals
 • MainDab no longer takes 10 seconds to start up
 • Fixed the copy script button in game hub crashing MainDab (it was due to a missing animation)
+
+<------------------------------------------------------------------------------------------------------------------------------------->
 
 == MainDab 15.1 REL Released! ==
 Build number: 165
@@ -642,4 +660,4 @@ MainDab V.10.9 Released | Build 112 | 29 Jan 2021
 [3] Added WeAreDevs API
 [4] Made the top bar status show the current injection
 [5] Removed unnecessary dependencies
-[6] Removed Sirhurt API in favor of more free ones
+[6] Removed Sirhurt API in favour of more free ones
